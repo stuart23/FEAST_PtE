@@ -9,7 +9,6 @@ import feast.EmissionSimModules.infrastructure_classes
 import feast.EmissionSimModules.simulation_classes as sc
 from feast.EmissionSimModules.infrastructure_classes import Component
 import feast.DetectionModules as Dm
-import pickle
 import time
 
 def prob_curve(pts):
